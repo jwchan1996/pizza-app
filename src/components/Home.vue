@@ -24,8 +24,8 @@
                 // this.$router.replace({name:'personName'})
 
                 //通过push进行跳转
-                // this.$router.push('/menu')
-                this.$router.push({name:'deliveryLink'})
+                this.$router.push('/menu')
+                // this.$router.push({name:'deliveryLink'})
             }
         }
     }
